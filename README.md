@@ -1,2 +1,1 @@
-# elementarySchool
 # sdn2Sukamulya
