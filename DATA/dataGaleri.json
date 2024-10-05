@@ -39,13 +39,13 @@
     {
       "id": "7",
       "gambar": "../gambar/up hari pramuka.jpg",
-      "kegiatan": "Pramuka",
+      "kegiatan": "Upacara Hari Pramuka",
       "deskripsi": "Kegiatan Memperingati Hari Pramuka."
     },
     {
       "id": "8",
       "gambar": "../gambar/acara pelepasan.jpg",
-      "kegiatan": "Pengajar SDN 2 Sukamulya",
+      "kegiatan": "Pelepasan SDN 2 Sukamulya",
       "deskripsi": "Acara pelepasan kelas VI."
     },
     {
