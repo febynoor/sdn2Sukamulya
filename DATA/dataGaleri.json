@@ -38,21 +38,21 @@
     },
     {
       "id": "7",
-      "gambar": "../gambar/kegiatan pramuka.jpg",
+      "gambar": "../gambar/up hari pramuka.jpg",
       "kegiatan": "Pramuka",
-      "deskripsi": "Kegiatan yang rutin dilakukan setiap hari Jumat."
+      "deskripsi": "Kegiatan Memperingati Hari Pramuka."
     },
     {
       "id": "8",
-      "gambar": "../gambar/pengajar.jpg",
+      "gambar": "../gambar/acara pelepasan.jpg",
       "kegiatan": "Pengajar SDN 2 Sukamulya",
-      "deskripsi": "Foto bersama guru-guru Pengajar SDN 2 Sukamulya pada acara kenaikan kelas dan pelepasan kelas VI."
+      "deskripsi": "Acara pelepasan kelas VI."
     },
     {
       "id": "9",
-      "gambar": "../gambar/tahun baru islam.jpg",
-      "kegiatan": "Peringatan Tahun Baru Islam",
-      "deskripsi": "Kegiatan memperingati Tahun Baru Islam."
+      "gambar": "../gambar/17an.jpg",
+      "kegiatan": "Peringatan HUT RI",
+      "deskripsi": "Kegiatan memperingati HUT RI yang ke-79."
     }
   ] 
 }
